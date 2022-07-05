@@ -3,7 +3,7 @@
 
 - 🦁 LikeLion at SCH 9th Member <br>
 
-- 💻 Programming I Have Learned: C, C++, JAVA, HTML/CSS, Python ... <br>
+- 💻 Programming I Have Learned: Python, Java, JavaScript ... <br>
 
 - ⏰ I will commit every day!<br><br>
 
