@@ -1,9 +1,11 @@
 ### Hi, This is Heechan🐻
 <br>
 
+- ⭐ SSAFY 9th Member <br>
+
 - 🦁 LikeLion at SCH 9th Member <br>
 
-- 💻 Programming I Have Learned: Python, Java, JavaScript ... <br>
+- 💻 Programming I Have Learned: Spring Framework, Mysql, Vue.js ... <br>
 
 - ⏰ I will commit every day!<br><br>
 
